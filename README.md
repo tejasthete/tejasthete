@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I'm currently working on end-to-end machine learning projects — from EDA and feature engineering to model building and evaluation
+- 🌱 I'm currently learning deep learning, NLP, and advanced model tuning techniques
+- 👯 I'm looking to collaborate on data analysis, predictive modeling, and dashboard/BI projects
+
+
 
 <!--
 **tejasthete/tejasthete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
