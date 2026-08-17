@@ -1,7 +1,12 @@
 ## Hi there 👋
+
+Hi, my name is Tejas 👋 — I'm interested in Python, SQL, Data Science, Machine Learning, and Data Analysis, and I love turning raw data into insights.
+
 - 🔭 I'm currently working on Data Science & Machine Learning projects using Python, SQL, and Scikit-learn
 - 🌱 I'm currently learning Deep Learning, NLP, and Data Analysis with Power BI & Tableau
 - 👯 I'm looking to collaborate on Data Analysis, Machine Learning, and Data Visualization projects
+
+
 
 <!--
 **tejasthete/tejasthete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
